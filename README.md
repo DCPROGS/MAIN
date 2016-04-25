@@ -1,5 +1,5 @@
 # DCPROGS
-The goal of DCPROGS is to provide a collection of tools for scientific research on ion channels. The backbone of the package is [DCPROGS suite] (http://www.ucl.ac.uk/Pharmacology/dcpr95.html) written mainly by [Professor David Colquhoun] (http://www.ucl.ac.uk/Pharmacology/dc.html) over the last 40 years. The original programs have been writen in 32 bit FORTRAN90, with some assembler subroutines for fast graphics, and the GINO graphics library and are available to run in DOS. Compiled DOS programs can be downloaded from [DCPROGS/DCDOS] (https://github.com/DCPROGS/DCDOS) repository. See in DCDOS repository for description of DOS programs. Some of the programs have been converted for Microsoft Windows in 32 bit Intel Visual Fortran with Gino Windows graphics. Compiled Windows programs can be downloaded from [DCPROGS/DCWIN] (https://github.com/DCPROGS/DCWIN) repository. The FORTRAN source code is kept in [DCPROGS/DCFORTRAN] (https://github.com/DCPROGS/DCFORTRAN) repository.
+The goal of DCPROGS is to provide a collection of tools for scientific research on ion channels. The backbone of the package is [DCPROGS suite] (http://www.ucl.ac.uk/Pharmacology/dcpr95.html) written mainly by [Professor David Colquhoun] (http://www.ucl.ac.uk/Pharmacology/dc.html) over the last 40 years. The original programs have been writen in 32 bit FORTRAN90, with some assembler subroutines for fast graphics, and the GINO graphics library and are available to run in DOS. Compiled DOS programs can be downloaded from [DCPROGS/DCDOS] (https://github.com/DCPROGS/DCDOS) repository. See in DCDOS repository for description of DOS programs. Some of the programs have been converted for Microsoft Windows in 32 bit Intel Visual Fortran with Gino Windows graphics. Compiled Windows programs can be downloaded from [DCPROGS/DCWIN] (https://github.com/DCPROGS/DCWIN) repository. The FORTRAN source code is kept in [DCPROGS/DCFORTRAN] (https://github.com/DCPROGS/DCFORTRAN) repository. For more details on FORTRAN DCprogs see [OneMol.org page] (http://www.onemol.org.uk/?page_id=331).
 
 Currently work is in progress to write  some programs in pure Python or Python/C++. The rationale is to preserve and cultivate these tools for future research applications. Below folows brief description of repositories which a currently under development.
 
@@ -19,5 +19,8 @@ The project is version controlled, documented, and extensively unit-tested. It i
 ###DCPYPS
 [DCPYPS] (https://github.com/DCPROGS/DCPYPS) is a collection of modules and scripts common to all the DCPROGS repositories. DCPYPS deals with file input/output, specifying kinetic mechanism, creating data structures. SCALCS and HJCFIT depend on DCPYPS.
 
-##DCQTGUI
+###DCQTGUI
 [DCQTGUI] (https://github.com/DCPROGS/DCQTGUI) repository provides primitive Qt based GUIs for Python based programs.
+
+
+For more information or questons about DCPROGS contact Remigijus Lape: r.lape@ucl.ac.uk
