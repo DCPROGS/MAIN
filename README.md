@@ -23,4 +23,4 @@ The project is version controlled, documented, and extensively unit-tested. It i
 [DCQTGUI] (https://github.com/DCPROGS/DCQTGUI) repository provides primitive Qt based GUIs for Python based programs.
 
 
-For more information or questons about DCPROGS contact Remigijus Lape: r.lape@ucl.ac.uk
+For more information or questons about DCPROGS contact Remigijus Lape: remis.lp@gmail.com
